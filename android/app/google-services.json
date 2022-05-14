@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "697022346087",
+    "project_id": "shazamvin-af876",
+    "storage_bucket": "shazamvin-af876.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697022346087:android:36e0244aa87241cfb535c2",
+        "android_client_info": {
+          "package_name": "com.shazam_vin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697022346087-t75kkg94ic0tfsgohnubjus5jb381f7e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAueqFAstc9NKO_L0Fmuw-DLoGUCyKE7OQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697022346087-t75kkg94ic0tfsgohnubjus5jb381f7e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

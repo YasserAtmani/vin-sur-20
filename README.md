@@ -12,9 +12,6 @@ Stack :
 
 # Screenshots
 
-![Connecion](screens/App_screenshot (2).jpg)
-![Accueil](screens/App_screenshot (4).jpg)
-![Scan1](screens/App_screenshot (5).jpg)
-![Scan2](screens/App_screenshot (6).jpg)
-![Scan3](screens/App_screenshot (7).jpg)
-![Commentaires](screens/App_screenshot (8).jpg)
+<img src="./screens/App_screenshot (2).jpg" alt="Connexion" width="320"> <img src="./screens/App_screenshot (4).jpg" alt="Accueil" width="320">
+<img src="./screens/App_screenshot (5).jpg" alt="Scan1" width="320"> <img src="./screens/App_screenshot (6).jpg" alt="Scan2" width="320">
+<img src="./screens/App_screenshot (7).jpg" alt="Scan3" width="320"> <img src="./screens/App_screenshot (8).jpg" alt="Commentaires" width="320">
